@@ -431,6 +431,14 @@ nav a {
 .h11{
     font-family: "Volkhov", serif;
     font-size: 48px;
+}
+.h11::after{
+    content: url(Images/Tree3.png);
+    width: 106px;
+    height: 90px;
+    position: relative;
+    left: 120px;
+    top: 50px;
 
 }
 .last{
